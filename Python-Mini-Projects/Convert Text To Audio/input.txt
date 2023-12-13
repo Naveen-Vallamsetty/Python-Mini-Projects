@@ -1,0 +1,8 @@
+ChatGPT maker OpenAI has delayed the launch of its custom GPT store until early 2024, according to an internal memo seen by Reuters on Friday.
+
+During its first developer conference in November, OpenAI introduced the custom GPTs and store, which were set to be launched later that month.
+The company is continuing to “make improvements” to GPTs based on customer feedback, the memo said.
+
+The delay comes against the backdrop of the startup’s surprise ouster of its CEO Sam Altman and his subsequent reinstatment following threats by employees to quit.
+
+The GPTs are early versions of AI assistants that perform real-world tasks such as booking flights on behalf of a user. It is also expected to allow users to share their GPTs and earn money based on the number of users.
